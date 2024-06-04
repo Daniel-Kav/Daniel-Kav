@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Daniel Kavatha</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Daniel </h1>
+<h3 align="center">A passionate frontend developer from tanzania</h3>
 
 - 🔭 I’m currently working on **a stocks monitoring system using django**
 
 - 🌱 I’m currently learning **rest APIs**
 
-- 💬 Ask me about **python ,JAVA,C,C++ ,HTML5,CSS, SQL,JAVASCRIPT,DJANGO,AWS,DOCKER**
+- 💬 Ask me about **python ,JAVA,C,C++ ,HTML5,CSS, SQL,JAVASCRIPT,DJANGO,AWS,DRIIZLE**
 
 - 📫 How to reach me **dankavatha01@gmail.com**
 
