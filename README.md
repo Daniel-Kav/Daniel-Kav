@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Daniel </h1>
-<h3 align="center">A passionate frontend developer from tanzania</h3>
+<h1 align="center">Hi 👋, I'm Daniel Kavatha</h1>
+<h3 align="center">A passionate software developer from Kenya</h3>
 
 - 🔭 I’m currently working on **a stocks monitoring system using django**
 
