@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **rest APIs**
 
-- 💬 Ask me about **python ,JAVA,C,C++ ,HTML5,CSS, SQL,JAVASCRIPT,DJANGO,AWS,DRIIZLE**
+- 💬 Ask me about **python ,C,C++ ,HTML5,CSS, SQL,JAVASCRIPT,DJANGO,AWS,DRIIZLE**
 
 - 📫 How to reach me **dankavatha01@gmail.com**
 
