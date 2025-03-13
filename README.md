@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a stocks monitoring system using django**
 
-- 🌱 I’m currently learning **rest APIs**
+- 🌱 I’m currently learning **Grapgh Ql**
 
 - 💬 Ask me about **python ,DJANGO, NEXTJS  ,DRIIZLE, Typescript**
 
