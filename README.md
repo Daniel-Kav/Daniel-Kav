@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b5d3b,100:1f4e79&height=170&section=header&text=Daniel%20Kavatha&fontSize=44&fontColor=ffffff&desc=Quality%20Engineering%20%C2%B7%20Data%20Quality%20%C2%B7%20Automation&descSize=16&descAlignY=72" alt="Daniel Kavatha" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b5d3b,100:1f4e79&height=190&section=header&text=Daniel%20Kavatha&fontSize=46&fontColor=ffffff&fontAlignY=32&desc=Quality%20Engineering%20%C2%B7%20Data%20Quality%20%C2%B7%20Automation&descSize=17&descAlignY=52" alt="Daniel Kavatha" width="100%"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ transformations and ETL pipelines behind financial reporting. On my own time I b
 
 | Project | What it shows |
 | --- | --- |
-| **[PermitPass QA](https://github.com/Daniel-Kav/permitpass-qa)** | A full test system around a permit and M-Pesa payment service: **400+ automated tests** (pytest, Playwright × 4 browsers, Jest, **Maestro on Android**), WireMock contract tests, OWASP ZAP, k6 load/stress/soak. **5 real defects found and fixed test-first**, including a race condition caught by load testing; capacity raised 3.7×. 51 PRs, 5 releases. |
+| **[PermitPass QA](https://github.com/Daniel-Kav/permitpass-qa)** | A full test system around a permit and M-Pesa payment service: **400+ automated tests** (pytest, Playwright × 4 browsers, Jest, **Maestro on Android**), WireMock contract tests, OWASP ZAP, k6 load/stress/soak. **5 real defects found and fixed test-first**, including a race condition caught by load testing; capacity raised 3.7×. 51 PRs across 4 releases. |
 | **[SQL Data Warehouse](https://github.com/Daniel-Kav/sql-data-warehouse)** | Medallion (bronze → silver → gold) warehouse in SQL Server from ERP and CRM sources; cleansing, reconciliation and a star schema for reporting. |
 | **[SQL Data Analytics](https://github.com/Daniel-Kav/sql-data-analytics-project)** | Segmentation, ranking and time-series analysis with window functions and multi-level aggregation. |
 | **[ShambaScan](https://github.com/Daniel-Kav/shambascan)** | Plant-disease detection web app (Django, PostgreSQL, ML). 🥈 2nd place, Kirinyaga University Innovation Fair. |
